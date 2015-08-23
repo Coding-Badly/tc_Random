@@ -24,6 +24,8 @@
 #ifndef tc_random_h
 #define tc_random_h
 
+#include <stdlib.h>
+
 
 /*=============================================================================
   Random number generation
